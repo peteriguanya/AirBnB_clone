@@ -1,4 +1,4 @@
-![💻AirBnB_clone_-_The_console (4)](https://user-images.githubusercontent.com/110534527/218313372-9ad09ae6-f902-4a84-9dd5-02a33d1feb87.png)
+![💻AirBnB_clone_-_The_console (6)](https://user-images.githubusercontent.com/110534527/218325064-7562f18b-1262-4442-a005-7dbfcff8517e.png)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Ckimatu/AirBnB_clone)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ckimatu/AirBnB_clone)
