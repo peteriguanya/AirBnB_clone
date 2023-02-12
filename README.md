@@ -1,4 +1,4 @@
-![💻AirBnB_clone_-_The_console (2)](https://user-images.githubusercontent.com/110534527/218312872-eda9b768-5a6d-4ceb-a13f-e31645d0b5a4.png)
+![💻AirBnB_clone_-_The_console (3)](https://user-images.githubusercontent.com/110534527/218313247-92a48af5-6e70-49cf-b3c8-49814378634f.png)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Ckimatu/AirBnB_clone)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ckimatu/AirBnB_clone)
@@ -11,13 +11,6 @@ This is the first step towards building our first full web application: the AirB
 
 The interface of the application has a limited number of accepted commands that were solely defined for the usage of the AirBnB website.
 This command line interpreter serves as the frontend of the web app.
-
-Some commands available are:
-* *show*
-* *create*
-* *update*
-* *destroy*
-* *count*
 
 The following actions can be performed:
 * Creating new objects (ex: a new User or a new Place)
